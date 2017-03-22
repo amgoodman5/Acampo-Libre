@@ -1,7 +1,7 @@
 # Acampo-Libre
 
- FRONT END: https://github.com/amgoodman5/acampo-libre-project-client
- BACK END: https://github.com/amgoodman5/acampo-libre-project-server
+  ## FRONT END: https://github.com/amgoodman5/acampo-libre-project-client
+  ## BACK END: https://github.com/amgoodman5/acampo-libre-project-server
  
  ## Project Description
  A crowd sourcing campsite database. User must signup, add a secret campsite with coordinates and physical proof(picture,videos) as authorization.
